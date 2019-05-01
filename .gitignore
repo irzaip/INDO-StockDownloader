@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 stock/**
 trading-with-python/**
+list/*/*.js
